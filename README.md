@@ -1,1 +1,1 @@
-# Ecur
+<img src="/Etc/Ecur.png">
